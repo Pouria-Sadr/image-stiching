@@ -23,7 +23,7 @@ After applying the SIFT-based panorama stitching algorithm to your images, you c
 
 
 ### Picture 1
-![Panorama 1](/path/to/panorama1.jpg)
+![Panorama 1](sl.jpg)
 *Description of Panorama 1 (optional)*
 
 ### Picture 2
