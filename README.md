@@ -22,35 +22,40 @@ These steps, when executed correctly, result in a high-quality panoramic image t
 After applying the SIFT-based panorama stitching algorithm to your images, you can expect impressive panoramic results that seamlessly merge multiple photos into a single cohesive view. Here are some examples of panoramas created using our algorithm:
 
 
-### Picture 1
+#### Picture 1
 ![Panorama 1](sl.jpg)
 
 *left picture*
 
-### Picture 2
+#### Picture 2
 ![Panorama 2](sm.jpg)
 
 *middle picture*
 
-### Picture 3
+#### Picture 3
 ![Panorama 3](sr.jpg)
 
 *right picture*
 
-#### features between left and middle
-### features1-2
-![Panorama 1](/path/to/panorama1.jpg)
-*Description of Panorama 1 (optional)*
+### features between left and middle
 
-### features2-3
-![Panorama 1](/path/to/panorama1.jpg)
-*Description of Panorama 1 (optional)*
+#### features1-2
+![Panorama 1](media/1-2.png)
 
-### mathes1-2
-![Panorama 1](/path/to/panorama1.jpg)
-*Description of Panorama 1 (optional)*
+### features between middle and right
 
-### mathes2-3
-![Panorama 1](/path/to/panorama1.jpg)
-*Description of Panorama 1 (optional)*
+#### features2-3
+![Panorama 1](media/2-3.png)
+
+
+### matches between left and middle
+
+#### mathes1-2
+![Panorama 1](media/1-2-matches.png)
+
+### matches between middle and right
+
+#### mathes2-3
+![Panorama 1](media/2-3-matches.png)
+
 
