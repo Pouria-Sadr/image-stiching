@@ -30,14 +30,14 @@ After applying the SIFT-based panorama stitching algorithm to your images, you c
 ### Picture 2
 ![Panorama 2](sm.jpg)
 
-*Description of Panorama 2 (optional)*
+*middle picture*
 
 ### Picture 3
 ![Panorama 3](sr.jpg)
 
-*Description of Panorama 3 (optional)*
+*right picture*
 
-
+#### features between left and middle
 ### features1-2
 ![Panorama 1](/path/to/panorama1.jpg)
 *Description of Panorama 1 (optional)*
