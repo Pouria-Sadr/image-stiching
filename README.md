@@ -42,7 +42,7 @@ After applying the SIFT-based panorama stitching algorithm to your images, you c
 #### features1-2
 ![Panorama 1](media/1-2.png)
 
-### features between middle and right
+### features between left and middle and right
 
 #### features2-3
 ![Panorama 1](media/2-3.png)
@@ -53,9 +53,13 @@ After applying the SIFT-based panorama stitching algorithm to your images, you c
 #### mathes1-2
 ![Panorama 1](media/1-2-matches.png)
 
-### matches between middle and right
+### matches between left and middle and right
 
 #### mathes2-3
 ![Panorama 1](media/2-3-matches.png)
+
+####panaroma
+
+![Panorama 1](media/result.png)
 
 
