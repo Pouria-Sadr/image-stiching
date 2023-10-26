@@ -58,7 +58,7 @@ After applying the SIFT-based panorama stitching algorithm to your images, you c
 #### mathes2-3
 ![Panorama 1](media/2-3-matches.png)
 
-####panaroma
+#### panaroma
 
 ![Panorama 1](media/result.png)
 
